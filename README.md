@@ -1,3 +1,5 @@
+![Lines of code](https://img.shields.io/tokei/lines/github/Dysfunk/Funkin-Test)
+
 # Friday Night Funkin
 
 This is the repository for Friday Night Funkin, a game originally made for Ludum Dare 47 "Stuck In a Loop".
