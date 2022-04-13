@@ -1,4 +1,4 @@
-![How many fucks I give](0)
+![How many fucks I give](none.txt)
 
 # Friday Night Funkin
 
