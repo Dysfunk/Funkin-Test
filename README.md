@@ -1,4 +1,4 @@
-![Lines of code](https://img.shields.io/tokei/lines/github/Dysfunk/Funkin-Test)
+![Lines of code](https://img.shields.io/tokei/lines/github/KadeDev/Kade-Engine)
 
 # Friday Night Funkin
 
